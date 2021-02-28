@@ -342,6 +342,7 @@ body {
   display: flex;
   justify-content: flex-start;
   margin-top: 75px;
+  margin-left: 20px;
 }
 
 .closer span {
@@ -366,7 +367,7 @@ body {
 }
 
 .closer span:hover:before {
-  left: -20px;
+  left: -5px;
 }
 
 .modal_wrapper {
