@@ -556,7 +556,11 @@ body {
   opacity: 1;
   z-index: 10;
 }
-
+@media (max-width: 767.98px) and (orientation: landscape){
+  .section-first_lines .lines{
+    margin-left: 400px;
+  }
+}
 @media (max-width: 767.98px) {
   .section_first {
     background-size: 270px;
