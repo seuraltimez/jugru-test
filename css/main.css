@@ -560,6 +560,9 @@ body {
   .section-first_lines .lines{
     margin-left: 400px;
   }
+  .logo{
+    margin-top: 155px;
+  }
 }
 @media (max-width: 767.98px) {
   .section_first {
